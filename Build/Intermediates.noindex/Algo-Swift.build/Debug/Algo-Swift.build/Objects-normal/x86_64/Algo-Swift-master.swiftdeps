@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "f0a8d026e278e10a25ca1f877fb18056"
+build_time: [1583719330, 382488000]
+inputs:
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/09_Sort/Sort01.swift": [1582599129, 687192387]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/SingleLinkedList.swift": [1582473606, 100335289]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/LeetCodeTop100.swift": [1583595746, 703085795]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/08_Stack/Stack.swift": [1582559704, 664095547]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/ByteDanceTop100.swift": [1583679575, 842959484]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/10_Search/BinarySearch.swift": [1583148450, 513115217]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/08_Stack/Browser.swift": [1582536649, 709599534]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/08_Stack/StackOnLinkedList.swift": [1582554892, 541927681]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/Array.swift": [1583676034, 436028577]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/LinkedListAlgo.swift": [1583719330, 314626999]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/09_Sort/mergeSort.swift": [1582600642, 472623058]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/main.swift": [1583676034, 343407515]
+  "/Users/mli/Desktop/Develope/Algo-Swift/Algo-Swift/09_Sort/quickSort.swift": [1582690429, 780381619]
