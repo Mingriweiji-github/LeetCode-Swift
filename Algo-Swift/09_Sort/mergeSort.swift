@@ -7,7 +7,7 @@
 //
 
 import Foundation
-///归并排序是稳定排序，但不是原地排序因为它需要额外的空间进行合并，空间复杂度是O(N)
+///归并排序是稳定排序，但不是原地排序因为它需要额外的空间进行合并，空间复杂度是O(N), 时间复杂度 O(nlogn)
 ///稳定排序是指当元素相同时，排序后依然保持排序之前的相对顺序。
 ///归并排序具体解释：https://github.com/andyRon/swift-algorithm-club-cn/tree/master/Merge%20Sort
 /*

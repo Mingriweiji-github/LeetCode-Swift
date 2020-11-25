@@ -7,10 +7,12 @@
 //
 
 import Foundation
-///快速排序是原地排序，也是递归实现，但快速排序不是稳定排序:https://github.com/andyRon/swift-algorithm-club-cn/tree/master/Quicksort
+///快速排序是原地排序，也是递归实现 时间复杂度 O(nlogn) ，但快速排序不是稳定排序:https://github.com/andyRon/swift-algorithm-club-cn/tree/master/Quicksort
 /*
  归并排序虽然是稳定的、时间复杂度为 O(nlogn) 的排序算法，但是它是非原地排序算法。
-归并之所以是非原地排序算法，主要原因是合并函数无法在原地执行。
+
+ 归并之所以是非原地排序算法，主要原因是合并函数无法在原地执行。
+ 
  快速排序通过设计巧妙的原地分区函数，可以实现原地排序，解决了归并排序占用太多内存的问题。
 
  直接递归：
