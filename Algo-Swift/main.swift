@@ -42,7 +42,12 @@ quickSortDutch(&list, low: 0, high: list.count - 1)
 print(list)
 
 
-var linkList =  [1,3,5,2,8,1,0]
+//var linkList =  [1,3,5,2,8,1,0]
 //linkList =  LinkedListSolution.reversePrintWithArray(linkList)
 //print(linkList)
+
+let characters = "()"
+let stringSolution = StringSolution()
+print(stringSolution.isCharacterValid(characters))
+print(isValid(characters))
 

@@ -16,10 +16,15 @@
 		146F3DE22404CAE50078FB4C /* quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146F3DE12404CAE50078FB4C /* quickSort.swift */; };
 		146F3DE5240627FC0078FB4C /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146F3DE4240627FC0078FB4C /* BinarySearch.swift */; };
 		14930D442413772B009D0853 /* ByteDanceTop100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14930D432413772B009D0853 /* ByteDanceTop100.swift */; };
-		14930D462413F459009D0853 /* Offer100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14930D452413F459009D0853 /* Offer100.swift */; };
+		14930D462413F459009D0853 /* 链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14930D452413F459009D0853 /* 链表.swift */; };
 		14EAB13F23EFB92D00FA3F87 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAB13E23EFB92D00FA3F87 /* main.swift */; };
 		14EAB14623EFB96900FA3F87 /* SingleLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAB14523EFB96900FA3F87 /* SingleLinkedList.swift */; };
 		14EAB14823EFC79900FA3F87 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EAB14723EFC79900FA3F87 /* LinkedList.swift */; };
+		8485FA33256DF0650068B3DD /* 栈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA32256DF0650068B3DD /* 栈.swift */; };
+		8485FA39256E2F550068B3DD /* 二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA38256E2F550068B3DD /* 二叉树.swift */; };
+		8485FA3D256E2F690068B3DD /* 二叉树BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */; };
+		8485FA40256E2F780068B3DD /* 二叉树DFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */; };
+		8485FA43256E2F970068B3DD /* 数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA42256E2F970068B3DD /* 数组.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,11 +49,16 @@
 		146F3DE12404CAE50078FB4C /* quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quickSort.swift; sourceTree = "<group>"; };
 		146F3DE4240627FC0078FB4C /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		14930D432413772B009D0853 /* ByteDanceTop100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByteDanceTop100.swift; sourceTree = "<group>"; };
-		14930D452413F459009D0853 /* Offer100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer100.swift; sourceTree = "<group>"; };
+		14930D452413F459009D0853 /* 链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "链表.swift"; sourceTree = "<group>"; };
 		14EAB13B23EFB92D00FA3F87 /* Algo-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algo-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14EAB13E23EFB92D00FA3F87 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		14EAB14523EFB96900FA3F87 /* SingleLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleLinkedList.swift; sourceTree = "<group>"; };
 		14EAB14723EFC79900FA3F87 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
+		8485FA32256DF0650068B3DD /* 栈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "栈.swift"; sourceTree = "<group>"; };
+		8485FA38256E2F550068B3DD /* 二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树.swift"; sourceTree = "<group>"; };
+		8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树BFS.swift"; sourceTree = "<group>"; };
+		8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树DFS.swift"; sourceTree = "<group>"; };
+		8485FA42256E2F970068B3DD /* 数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "数组.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,11 +123,16 @@
 				146F3DAB23FB75870078FB4C /* Array.swift */,
 				14EAB14523EFB96900FA3F87 /* SingleLinkedList.swift */,
 				14EAB14723EFC79900FA3F87 /* LinkedList.swift */,
-				14930D452413F459009D0853 /* Offer100.swift */,
+				14930D452413F459009D0853 /* 链表.swift */,
+				8485FA42256E2F970068B3DD /* 数组.swift */,
+				8485FA32256DF0650068B3DD /* 栈.swift */,
+				8485FA38256E2F550068B3DD /* 二叉树.swift */,
+				8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */,
+				8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */,
+				14930D432413772B009D0853 /* ByteDanceTop100.swift */,
 				146F3DD52403C03F0078FB4C /* 08_Stack */,
 				146F3DDC2404290A0078FB4C /* 09_Sort */,
 				146F3DE3240627D80078FB4C /* 10_Search */,
-				14930D432413772B009D0853 /* ByteDanceTop100.swift */,
 			);
 			path = "Algo-Swift";
 			sourceTree = "<group>";
@@ -181,12 +196,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				146F3DDE240429570078FB4C /* Sort01.swift in Sources */,
+				8485FA33256DF0650068B3DD /* 栈.swift in Sources */,
+				8485FA39256E2F550068B3DD /* 二叉树.swift in Sources */,
 				14EAB14623EFB96900FA3F87 /* SingleLinkedList.swift in Sources */,
-				14930D462413F459009D0853 /* Offer100.swift in Sources */,
+				14930D462413F459009D0853 /* 链表.swift in Sources */,
 				146F3DD72403C0CC0078FB4C /* Stack.swift in Sources */,
 				14930D442413772B009D0853 /* ByteDanceTop100.swift in Sources */,
+				8485FA40256E2F780068B3DD /* 二叉树DFS.swift in Sources */,
 				146F3DE5240627FC0078FB4C /* BinarySearch.swift in Sources */,
+				8485FA3D256E2F690068B3DD /* 二叉树BFS.swift in Sources */,
 				146F3DD92403CF310078FB4C /* Browser.swift in Sources */,
+				8485FA43256E2F970068B3DD /* 数组.swift in Sources */,
 				146F3DDB2403CF480078FB4C /* StackOnLinkedList.swift in Sources */,
 				146F3DAC23FB75870078FB4C /* Array.swift in Sources */,
 				14EAB14823EFC79900FA3F87 /* LinkedList.swift in Sources */,

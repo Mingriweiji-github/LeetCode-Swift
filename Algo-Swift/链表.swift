@@ -8,12 +8,12 @@
 
 import Foundation
 /**
+ 链表系列：
+ 剑指 Offer 22. 链表中倒数第k个节点
+ 剑指 Offer 06. 从尾到头打印链表
+ 剑指 Offer 24. 反转链表
 LeetCode top100: https://leetcode-cn.com/problemset/hot-100/
- 
-LeetCode 剑指offer：
- **/
-
-// todo: 数组转链表？？？
+**/
 
 class LinkedListSolution {
     /*
@@ -41,13 +41,13 @@ class LinkedListSolution {
     }
     
     
-    /*
+    /**
      剑指 Offer 06. 从尾到头打印链表 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
      示例 1：
      输入：head = [1,3,2]
      输出：[2,3,1]
      限制：0 <= 链表长度 <= 10000
-     */
+     **/
     
     // 思路分析：1、链表转成数组 数组倒叙返回
 
@@ -130,6 +130,4 @@ class LinkedListSolution {
         // 5.返回的应该为最后一个节点，因为当前最后一个节点被q指向，所以返回q
         return q
     }
-    
-   
 }
