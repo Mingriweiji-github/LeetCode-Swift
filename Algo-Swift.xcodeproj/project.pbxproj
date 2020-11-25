@@ -25,6 +25,7 @@
 		8485FA3D256E2F690068B3DD /* 二叉树BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */; };
 		8485FA40256E2F780068B3DD /* 二叉树DFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */; };
 		8485FA43256E2F970068B3DD /* 数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA42256E2F970068B3DD /* 数组.swift */; };
+		8485FA47256E49350068B3DD /* 队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA46256E49350068B3DD /* 队列.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树BFS.swift"; sourceTree = "<group>"; };
 		8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树DFS.swift"; sourceTree = "<group>"; };
 		8485FA42256E2F970068B3DD /* 数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "数组.swift"; sourceTree = "<group>"; };
+		8485FA46256E49350068B3DD /* 队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "队列.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,18 +125,35 @@
 				146F3DAB23FB75870078FB4C /* Array.swift */,
 				14EAB14523EFB96900FA3F87 /* SingleLinkedList.swift */,
 				14EAB14723EFC79900FA3F87 /* LinkedList.swift */,
-				14930D452413F459009D0853 /* 链表.swift */,
-				8485FA42256E2F970068B3DD /* 数组.swift */,
-				8485FA32256DF0650068B3DD /* 栈.swift */,
-				8485FA38256E2F550068B3DD /* 二叉树.swift */,
-				8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */,
-				8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */,
+				8485FA45256E491F0068B3DD /* 线性表 */,
+				8485FA4A256E49450068B3DD /* 二叉树 */,
 				14930D432413772B009D0853 /* ByteDanceTop100.swift */,
 				146F3DD52403C03F0078FB4C /* 08_Stack */,
 				146F3DDC2404290A0078FB4C /* 09_Sort */,
 				146F3DE3240627D80078FB4C /* 10_Search */,
 			);
 			path = "Algo-Swift";
+			sourceTree = "<group>";
+		};
+		8485FA45256E491F0068B3DD /* 线性表 */ = {
+			isa = PBXGroup;
+			children = (
+				14930D452413F459009D0853 /* 链表.swift */,
+				8485FA42256E2F970068B3DD /* 数组.swift */,
+				8485FA32256DF0650068B3DD /* 栈.swift */,
+				8485FA46256E49350068B3DD /* 队列.swift */,
+			);
+			path = "线性表";
+			sourceTree = "<group>";
+		};
+		8485FA4A256E49450068B3DD /* 二叉树 */ = {
+			isa = PBXGroup;
+			children = (
+				8485FA38256E2F550068B3DD /* 二叉树.swift */,
+				8485FA3C256E2F690068B3DD /* 二叉树BFS.swift */,
+				8485FA3F256E2F780068B3DD /* 二叉树DFS.swift */,
+			);
+			path = "二叉树";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +231,7 @@
 				14EAB14823EFC79900FA3F87 /* LinkedList.swift in Sources */,
 				146F3DE02404C3580078FB4C /* mergeSort.swift in Sources */,
 				14EAB13F23EFB92D00FA3F87 /* main.swift in Sources */,
+				8485FA47256E49350068B3DD /* 队列.swift in Sources */,
 				146F3DE22404CAE50078FB4C /* quickSort.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
