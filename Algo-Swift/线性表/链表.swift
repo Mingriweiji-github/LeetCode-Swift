@@ -62,7 +62,7 @@ class LinkedListSolution {
         }
         //第二步：node从头开始，索引从末尾length-1开始，倒叙插入数组
         node = head
-        // 注意: 这里初始化res需要给大小才能通过LeetCode测试用例
+        // 注意: 这里初始化数组的大小才能通过LeetCode测试用例
         // var res = [Int]()
         var res = [Int](repeating:0, count: length)
         var index = length - 1

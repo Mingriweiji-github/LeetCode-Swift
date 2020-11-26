@@ -51,3 +51,8 @@ let stringSolution = StringSolution()
 print(stringSolution.isCharacterValid(characters))
 print(isValid(characters))
 
+// 青蛙 循环求余-大于Int64?
+print(Int32.min)
+print(Int32.max)
+print(Int64.max)
+print(Int64.min)
