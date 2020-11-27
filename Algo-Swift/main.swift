@@ -56,3 +56,7 @@ print(Int32.min)
 print(Int32.max)
 print(Int64.max)
 print(Int64.min)
+
+var a = 1, b = 2
+let c = min(a, b)
+print(c)
