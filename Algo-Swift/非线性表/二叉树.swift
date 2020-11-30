@@ -8,7 +8,17 @@
 
 import Foundation
 /*
- 二叉树：必须要定义当前节点的value, 以及可选类型的左子树和右子树
+ 二叉树：
+ 必须要定义当前节点的value, 以及可选类型的左子树和右子树
+ 二叉树实现一个二叉查找树，并且支持插入、删除、查找操作
+ 实现查找二叉查找树中某个节点的后继、前驱节点
+ 实现二叉树前、中、后序以及按层遍历
+ 
+ 堆:
+ 实现一个小顶堆、大顶堆、优先级队列
+ 实现堆排序
+ 利用优先级队列合并 K 个有序数组
+ 求一组动态数据集合的最大 Top K
  */
 public class TreeNode {
     public var val: Int
@@ -23,8 +33,100 @@ public class TreeNode {
     }
 }
 
+// 实现二叉树前、中、后序
 class BinaryTree {
-//    func inorderTraversal(_ root: TreeNode?) -> [Int] {
-//
-//    }
+    func preOrderTraversal(_ root: TreeNode?) {
+        guard let root = root else { return }
+        print(root.val)
+        preOrderTraversal(root.left)
+        preOrderTraversal(root.right)
+    }
+    func inOrderTraversal(_ root: TreeNode?) {
+        guard let root = root else { return }
+        inOrderTraversal(root.left)
+        print(root.val)
+        inOrderTraversal(root.right)
+    }
+    func postOrderTraversal(_ root: TreeNode?) {
+        guard let root = root else { return }
+        postOrderTraversal(root.left)
+        postOrderTraversal(root.right)
+        print(root.val)
+    }
+}
+
+// BFS和DFS
+// BFS应用层序遍历、最短路径
+extension BinaryTree {
+    // DFS遍历使用递归
+    func dfs(_ root: TreeNode?) {
+        guard let root = root else { return }
+        dfs(root.left)
+        dfs(root.right)
+    }
+    //BFS遍历使用队列：注意返回结果是一位数组
+    func bfs(_ root: TreeNode?) {
+        guard let root = root else { return }
+        var queue = [TreeNode]()
+        queue.append(root)
+        
+        while !queue.isEmpty {
+            let node = queue.removeFirst() // Java 队列移除第一个元素是poll()
+            if let left = node.left {
+                queue.append(left)
+            }
+            if let right = node.right {
+                queue.append(right)
+            }
+        }
+    }
+    // 二叉树的层序遍历
+    func bfs2(_ root: TreeNode?) {
+        guard let root = root else { return }
+        var queue = [TreeNode]()
+        queue.append(root)
+        while !queue.isEmpty {
+            let length = queue.count
+            for _ in 0..<length {
+                let node = queue.removeFirst()
+                if let left = node.left {
+                    queue.append(left)
+                }
+                if let right = node.right {
+                    queue.append(right)
+                }
+            }
+            
+        }
+        
+    }
+    // BFS 层序遍历
+    public func levelOrder(_ root: TreeNode?) -> [[Int]]{
+        guard let root = root else { return [[]] }
+        var queue = [TreeNode]()
+        queue.append(root)
+        
+        var res = [[Int]]()
+        
+        while !queue.isEmpty {
+            let count = queue.count
+            var level = [Int]()
+            for _ in 0..<count {
+                let node = queue.removeFirst()
+                level.append(node.val)
+                if let left = node.left {
+                    queue.append(left)
+                }
+                if let right = node.right {
+                    queue.append(right)
+                }
+            }
+            res.append(level)
+        }
+        return res
+    }
+    
+    // BFS 无权最短路径  1162. 地图分析
+    
+    
 }
