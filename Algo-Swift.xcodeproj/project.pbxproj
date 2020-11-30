@@ -25,8 +25,10 @@
 		8485FA47256E49350068B3DD /* 队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485FA46256E49350068B3DD /* 队列.swift */; };
 		848E066C256EBC2B00E96D90 /* LeetCodeHot100.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848E066B256EBC2B00E96D90 /* LeetCodeHot100.swift */; };
 		8495F59F25748DB900469A62 /* 网格结构.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8495F59E25748DB900469A62 /* 网格结构.swift */; };
+		849D31D825754BA9000E8605 /* ArrayTwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849D31D625754BA9000E8605 /* ArrayTwoSum.swift */; };
+		849D31D925754BA9000E8605 /* ArrayTwoSum.java in Sources */ = {isa = PBXBuildFile; fileRef = 849D31D725754BA9000E8605 /* ArrayTwoSum.java */; };
 		84B4360B2570D71F00EB11FF /* 单链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B436092570D71F00EB11FF /* 单链表.swift */; };
-		84B4360C2570D71F00EB11FF /* 数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B4360A2570D71F00EB11FF /* 数组.swift */; };
+		84B4360C2570D71F00EB11FF /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B4360A2570D71F00EB11FF /* Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,8 +63,10 @@
 		8485FA46256E49350068B3DD /* 队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "队列.swift"; sourceTree = "<group>"; };
 		848E066B256EBC2B00E96D90 /* LeetCodeHot100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeHot100.swift; sourceTree = "<group>"; };
 		8495F59E25748DB900469A62 /* 网格结构.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "网格结构.swift"; sourceTree = "<group>"; };
+		849D31D625754BA9000E8605 /* ArrayTwoSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayTwoSum.swift; sourceTree = "<group>"; };
+		849D31D725754BA9000E8605 /* ArrayTwoSum.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = ArrayTwoSum.java; sourceTree = "<group>"; };
 		84B436092570D71F00EB11FF /* 单链表.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "单链表.swift"; sourceTree = "<group>"; };
-		84B4360A2570D71F00EB11FF /* 数组.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "数组.swift"; sourceTree = "<group>"; };
+		84B4360A2570D71F00EB11FF /* Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,7 +142,7 @@
 		8485FA45256E491F0068B3DD /* 线性表 */ = {
 			isa = PBXGroup;
 			children = (
-				84B4360A2570D71F00EB11FF /* 数组.swift */,
+				849D31D125753397000E8605 /* Array */,
 				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
 				14930D452413F459009D0853 /* 链表2.swift */,
 				8485FA32256DF0650068B3DD /* 栈.swift */,
@@ -157,6 +161,16 @@
 				8485FA3C256E2F690068B3DD /* BFS.swift */,
 			);
 			path = "非线性表";
+			sourceTree = "<group>";
+		};
+		849D31D125753397000E8605 /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				849D31D725754BA9000E8605 /* ArrayTwoSum.java */,
+				849D31D625754BA9000E8605 /* ArrayTwoSum.swift */,
+				84B4360A2570D71F00EB11FF /* Array.swift */,
+			);
+			path = Array;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -223,8 +237,10 @@
 				8485FA39256E2F550068B3DD /* 二叉树.swift in Sources */,
 				14930D462413F459009D0853 /* 链表2.swift in Sources */,
 				84B4360B2570D71F00EB11FF /* 单链表.swift in Sources */,
+				849D31D925754BA9000E8605 /* ArrayTwoSum.java in Sources */,
 				146F3DD72403C0CC0078FB4C /* Stack.swift in Sources */,
 				14930D442413772B009D0853 /* ByteDanceTop100.swift in Sources */,
+				849D31D825754BA9000E8605 /* ArrayTwoSum.swift in Sources */,
 				8485FA40256E2F780068B3DD /* DFS.swift in Sources */,
 				146F3DE5240627FC0078FB4C /* BinarySearch.swift in Sources */,
 				8485FA3D256E2F690068B3DD /* BFS.swift in Sources */,
@@ -235,7 +251,7 @@
 				848E066C256EBC2B00E96D90 /* LeetCodeHot100.swift in Sources */,
 				14EAB13F23EFB92D00FA3F87 /* main.swift in Sources */,
 				8485FA47256E49350068B3DD /* 队列.swift in Sources */,
-				84B4360C2570D71F00EB11FF /* 数组.swift in Sources */,
+				84B4360C2570D71F00EB11FF /* Array.swift in Sources */,
 				146F3DE22404CAE50078FB4C /* quickSort.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
