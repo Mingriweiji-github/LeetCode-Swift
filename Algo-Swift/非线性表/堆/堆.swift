@@ -8,36 +8,11 @@
 
 import Foundation
 /*
- 二叉树：
- 必须要定义当前节点的value, 以及可选类型的左子树和右子树
- 二叉树实现一个二叉查找树，并且支持插入、删除、查找操作
- 实现查找二叉查找树中某个节点的后继、前驱节点
- 实现二叉树前、中、后序以及按层遍历
- 
- BinaryTree（二叉树）
- 01. Same Tree（相同的树）
-
- 02. Symmetric Tree （对称二叉树）
-
- 03. Invert Binary Tree（翻转二叉树）
-
- 04. Maximum Depth of Binary Tree（二叉树的最大深度）
-
- 05. Balanced Binary Tree（判断平衡二叉树）
-
- 06. Validate Binary Search Tree（验证二叉查找树）
-
- 07. Convert Sorted List to Binary Search Tree（有序链表转换二叉查找树）
-
- 08. Flatten Binary Tree to Linked List（二叉树展开为链表）
-
- 09. Binary Tree Zigzag Level Order Traversal（二叉树的锯齿形层次遍历）
-
- 10. Find Largest Value in Each Tree Row（在每个树行中找最大值）
-
- 11. Path Sum（路径总和）
-
- 12. Convert Sorted Array to Binary Search Tree（将有序数组转换为二叉搜索树）
+ 堆:
+ 实现一个小顶堆、大顶堆、优先级队列
+ 实现堆排序
+ 利用优先级队列合并 K 个有序数组
+ 求一组动态数据集合的最大 Top K
  
  */
 public class TreeNode {
