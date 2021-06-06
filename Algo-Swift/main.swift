@@ -80,3 +80,23 @@ var island =
      [0,0,0,0,0,0,0,1,1,0,0,0,0]]
 
 print(maxAreaOfIsland(grid: &island))
+
+// 链表
+let listNode = ListNode(0,
+                        ListNode(1,
+                                 ListNode(2,
+                                          ListNode(3,
+                                                   ListNode(4, nil)))))
+
+
+// 链表嵌套简写
+indirect enum LinkedList<Element: Comparable> {
+    case empty
+    case node(Element, LinkedList<Element>)
+}
+let linkedList = LinkedList.node(1, .node(2, .node(3, .node(4, .empty))))
+
+//func removing(_ element: Element) -> LinkedList<Element> {
+//    guard case let .node(value, next) = self else { return .empty }
+//}
+

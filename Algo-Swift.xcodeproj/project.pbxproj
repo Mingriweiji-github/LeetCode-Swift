@@ -86,32 +86,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		146F3DD52403C03F0078FB4C /* 08_Stack */ = {
+		146F3DD52403C03F0078FB4C /* 栈和队列 */ = {
 			isa = PBXGroup;
 			children = (
 				146F3DD62403C0CC0078FB4C /* Stack.swift */,
 				146F3DDA2403CF480078FB4C /* StackOnLinkedList.swift */,
 				146F3DD82403CF310078FB4C /* Browser.swift */,
 			);
-			path = 08_Stack;
+			path = "栈和队列";
 			sourceTree = "<group>";
 		};
-		146F3DDC2404290A0078FB4C /* 09_Sort */ = {
+		146F3DDC2404290A0078FB4C /* 数组和排序 */ = {
 			isa = PBXGroup;
 			children = (
 				146F3DDD240429570078FB4C /* Sort01.swift */,
 				146F3DDF2404C3580078FB4C /* mergeSort.swift */,
 				146F3DE12404CAE50078FB4C /* quickSort.swift */,
 			);
-			path = 09_Sort;
+			path = "数组和排序";
 			sourceTree = "<group>";
 		};
-		146F3DE3240627D80078FB4C /* 10_Search */ = {
+		146F3DE3240627D80078FB4C /* 二分查找 */ = {
 			isa = PBXGroup;
 			children = (
 				146F3DE4240627FC0078FB4C /* BinarySearch.swift */,
 			);
-			path = 10_Search;
+			path = "二分查找";
 			sourceTree = "<group>";
 		};
 		14EAB13223EFB92D00FA3F87 = {
@@ -138,9 +138,9 @@
 				849D31DB2575C151000E8605 /* ByteDanceTop100.swift */,
 				8485FA45256E491F0068B3DD /* 线性表 */,
 				8485FA4A256E49450068B3DD /* 非线性表 */,
-				146F3DD52403C03F0078FB4C /* 08_Stack */,
-				146F3DDC2404290A0078FB4C /* 09_Sort */,
-				146F3DE3240627D80078FB4C /* 10_Search */,
+				146F3DD52403C03F0078FB4C /* 栈和队列 */,
+				146F3DDC2404290A0078FB4C /* 数组和排序 */,
+				146F3DE3240627D80078FB4C /* 二分查找 */,
 			);
 			path = "Algo-Swift";
 			sourceTree = "<group>";
