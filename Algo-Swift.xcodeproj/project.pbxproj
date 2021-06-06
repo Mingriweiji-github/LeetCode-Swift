@@ -148,7 +148,7 @@
 		8485FA45256E491F0068B3DD /* 线性表 */ = {
 			isa = PBXGroup;
 			children = (
-				849D31D125753397000E8605 /* Array */,
+				849D31D125753397000E8605 /* 数组 */,
 				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
 				14930D452413F459009D0853 /* 链表2.swift */,
 				8485FA32256DF0650068B3DD /* 栈.swift */,
@@ -169,14 +169,14 @@
 			path = "非线性表";
 			sourceTree = "<group>";
 		};
-		849D31D125753397000E8605 /* Array */ = {
+		849D31D125753397000E8605 /* 数组 */ = {
 			isa = PBXGroup;
 			children = (
 				849D31DE2575C171000E8605 /* 两数之和 */,
 				849D31E22575C171000E8605 /* 三数之和 */,
 				84B4360A2570D71F00EB11FF /* Array.swift */,
 			);
-			path = Array;
+			path = "数组";
 			sourceTree = "<group>";
 		};
 		849D31DE2575C171000E8605 /* 两数之和 */ = {
