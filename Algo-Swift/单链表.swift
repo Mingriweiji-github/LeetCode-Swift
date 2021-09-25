@@ -7,22 +7,24 @@
 //
 
 import Foundation
-
-
 /**
-单链表实现插入、删除、查找操作
-*/
+ Swift 链表定义
+ */
 class Node<T> {
     var value: T?
     var next: Node?
 
-    init() {
-
-    }
-    init(value: T) {
+    init() {}
+    init(value: T, next: Node? = nil) {
         self.value = value
+        self.next = next
     }
 }
+
+/**
+单链表实现插入、删除、查找操作
+*/
+
 
 class List<Element: Equatable> {
     private var dummy = Node<Element>() //哨兵节点，类似java不存储数据

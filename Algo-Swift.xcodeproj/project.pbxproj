@@ -136,6 +136,7 @@
 				14EAB13E23EFB92D00FA3F87 /* main.swift */,
 				848E066B256EBC2B00E96D90 /* LeetCodeHot100.swift */,
 				849D31DB2575C151000E8605 /* ByteDanceTop100.swift */,
+				84B436092570D71F00EB11FF /* 单链表.swift */,
 				8485FA45256E491F0068B3DD /* 线性表 */,
 				8485FA4A256E49450068B3DD /* 非线性表 */,
 				146F3DD52403C03F0078FB4C /* 栈和队列 */,
@@ -153,7 +154,6 @@
 				14930D452413F459009D0853 /* 链表2.swift */,
 				8485FA32256DF0650068B3DD /* 栈.swift */,
 				8485FA46256E49350068B3DD /* 队列.swift */,
-				84B436092570D71F00EB11FF /* 单链表.swift */,
 			);
 			path = "线性表";
 			sourceTree = "<group>";
@@ -403,10 +403,11 @@
 		14EAB14323EFB92D00FA3F87 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YEFYT2Y9CS;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -414,10 +415,11 @@
 		14EAB14423EFB92D00FA3F87 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = YEFYT2Y9CS;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
