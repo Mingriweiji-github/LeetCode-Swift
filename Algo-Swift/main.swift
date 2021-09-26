@@ -8,7 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
+//print("Hello, World!")
 
 //var colors = [2,0,2,1,1,0]
 //setColors(&colors)
@@ -58,45 +58,48 @@ print("Hello, World!")
 //print(Int64.min)
 
 // 二叉树层序遍历输出二维数组
-let fifth = TreeNode(15)
-let seven = TreeNode(7)
-let tweenty = TreeNode(20, fifth, seven)
-let nine = TreeNode(9)
-let root = TreeNode(3, nine, tweenty)
-let res = BinaryTree().levelOrder(root)
-print(res)
+//let fifth = TreeNode(15)
+//let seven = TreeNode(7)
+//let tweenty = TreeNode(20, fifth, seven)
+//let nine = TreeNode(9)
+//let root = TreeNode(3, nine, tweenty)
+//let res = BinaryTree().levelOrder(root)
+//print(res)
 //[[3], [9, 20], [15, 7]]
 
 
 // 最大岛屿面积 
-var island =
-    [[0,0,1,0,0,0,0,1,0,0,0,0,0],
-     [0,0,0,0,0,0,0,1,1,1,0,0,0],
-     [0,1,1,0,1,0,0,0,0,0,0,0,0],
-     [0,1,0,0,1,1,0,0,1,0,1,0,0],
-     [0,1,0,0,1,1,0,0,1,1,1,0,0],
-     [0,0,0,0,0,0,0,0,0,0,1,0,0],
-     [0,0,0,0,0,0,0,1,1,1,0,0,0],
-     [0,0,0,0,0,0,0,1,1,0,0,0,0]]
-
-print(maxAreaOfIsland(grid: &island))
+//var island =
+//    [[0,0,1,0,0,0,0,1,0,0,0,0,0],
+//     [0,0,0,0,0,0,0,1,1,1,0,0,0],
+//     [0,1,1,0,1,0,0,0,0,0,0,0,0],
+//     [0,1,0,0,1,1,0,0,1,0,1,0,0],
+//     [0,1,0,0,1,1,0,0,1,1,1,0,0],
+//     [0,0,0,0,0,0,0,0,0,0,1,0,0],
+//     [0,0,0,0,0,0,0,1,1,1,0,0,0],
+//     [0,0,0,0,0,0,0,1,1,0,0,0,0]]
+//
+//print(maxAreaOfIsland(grid: &island))
 
 // 链表
-let listNode = ListNode(0,
-                        ListNode(1,
-                                 ListNode(2,
-                                          ListNode(3,
-                                                   ListNode(4, nil)))))
-
-
-// 链表嵌套简写
-indirect enum LinkedList<Element: Comparable> {
-    case empty
-    case node(Element, LinkedList<Element>)
-}
-let linkedList = LinkedList.node(1, .node(2, .node(3, .node(4, .empty))))
-
-//func removing(_ element: Element) -> LinkedList<Element> {
-//    guard case let .node(value, next) = self else { return .empty }
+//let listNode = ListNode(0,
+//                        ListNode(1,
+//                                 ListNode(2,
+//                                          ListNode(3,
+//                                                   ListNode(4, nil)))))
+//
+//
+//// 链表嵌套简写
+//indirect enum LinkedList<Element: Comparable> {
+//    case empty
+//    case node(Element, LinkedList<Element>)
 //}
+//let linkedList = LinkedList.node(1, .node(2, .node(3, .node(4, .empty))))
+
+let node1 = Node(value: 1)
+let node2 = Node(value: 2)
+let node3 = Node(value: 3)
+node1.next = node2
+node2.next = node3
+print(node1)
 

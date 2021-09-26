@@ -17,6 +17,36 @@ LeetCode top100: https://leetcode-cn.com/problemset/hot-100/
 
 class LinkedListSolution {
     /*
+     剑指 Offer 24. 反转链表
+     https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+     示例:
+
+     输入: 1->2->3->4->5->NULL
+     输出: 5->4->3->2->1->NULL
+      
+     限制：0 <= 节点个数 <= 5000
+     
+     题解：https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/
+     */
+    func reverseList(_ head: ListNode?) -> ListNode? {
+        guard head != nil else { return nil }
+        // 双指针翻转链表：p 和 q 交换位置
+        var p = head
+        var q: ListNode?
+        while (p != nil) {
+            // 1 防止断链，保存head的下一节点
+            let temp = p?.next
+            // 2 节点反向，指针由指向下一个节点变为指向前一个节点
+            p?.next = q
+            // 3 记录当前节点q的位置
+            q = p
+            // 4 将head指针指向下一个节点
+            p = temp
+        }
+        // 5.返回的应该为最后一个节点，因为当前最后一个节点被q指向，所以返回q
+        return q
+    }
+    /*
      剑指 Offer 22. 链表中倒数第k个节点 https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
      示例：给定一个链表: 1->2->3->4->5, 和 k = 2.
      返回链表 4->5.
@@ -100,34 +130,4 @@ class LinkedListSolution {
     }
     
     
-    /*
-     剑指 Offer 24. 反转链表
-     https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
-     示例:
-
-     输入: 1->2->3->4->5->NULL
-     输出: 5->4->3->2->1->NULL
-      
-     限制：0 <= 节点个数 <= 5000
-     
-     题解：https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/submissions/
-     */
-    func reverseList(_ head: ListNode?) -> ListNode? {
-        guard head != nil else { return nil }
-        // 双指针翻转链表：p 和 q 交换位置
-        var p = head
-        var q: ListNode?
-        while (p != nil) {
-            // 1 防止断链，保存head的下一节点
-            let temp = p?.next
-            // 2 节点反向，指针由指向下一个节点变为指向前一个节点
-            p?.next = q
-            // 3 记录当前节点q的位置
-            q = p
-            // 4 将head指针指向下一个节点
-            p = temp
-        }
-        // 5.返回的应该为最后一个节点，因为当前最后一个节点被q指向，所以返回q
-        return q
-    }
 }

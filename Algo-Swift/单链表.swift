@@ -20,7 +20,12 @@ class Node<T> {
         self.next = next
     }
 }
-
+extension Node: CustomStringConvertible {
+    public var description: String {
+        guard let next = next else { return "\(String(describing: value))" }
+        return "\(String(describing: value)) ->" + String(describing: next) + " "
+    }
+}
 /**
 单链表实现插入、删除、查找操作
 */

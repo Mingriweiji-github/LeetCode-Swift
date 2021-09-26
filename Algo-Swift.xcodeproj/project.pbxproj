@@ -137,6 +137,9 @@
 				848E066B256EBC2B00E96D90 /* LeetCodeHot100.swift */,
 				849D31DB2575C151000E8605 /* ByteDanceTop100.swift */,
 				84B436092570D71F00EB11FF /* 单链表.swift */,
+				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
+				14930D452413F459009D0853 /* 链表2.swift */,
+				84B4360A2570D71F00EB11FF /* Array.swift */,
 				8485FA45256E491F0068B3DD /* 线性表 */,
 				8485FA4A256E49450068B3DD /* 非线性表 */,
 				146F3DD52403C03F0078FB4C /* 栈和队列 */,
@@ -150,8 +153,6 @@
 			isa = PBXGroup;
 			children = (
 				849D31D125753397000E8605 /* 数组 */,
-				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
-				14930D452413F459009D0853 /* 链表2.swift */,
 				8485FA32256DF0650068B3DD /* 栈.swift */,
 				8485FA46256E49350068B3DD /* 队列.swift */,
 			);
@@ -174,7 +175,6 @@
 			children = (
 				849D31DE2575C171000E8605 /* 两数之和 */,
 				849D31E22575C171000E8605 /* 三数之和 */,
-				84B4360A2570D71F00EB11FF /* Array.swift */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
