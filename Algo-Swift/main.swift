@@ -14,3 +14,6 @@ print(containsDuplicate(nums1))
 
 let nums2 = [-2,1,-3,4,-1,2,1,-5,4]
 print(maxSubArray(nums2))
+
+let maxProfits = [7,1,5,3,6,4]
+print(maxProfits(maxProfits))
