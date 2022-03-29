@@ -31,10 +31,19 @@
 		849D31ED2575C1ED000E8605 /* ArrayTwoSum.java in Sources */ = {isa = PBXBuildFile; fileRef = 849D31EC2575C1ED000E8605 /* ArrayTwoSum.java */; };
 		84B4360B2570D71F00EB11FF /* 单链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B436092570D71F00EB11FF /* 单链表.swift */; };
 		84B4360C2570D71F00EB11FF /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B4360A2570D71F00EB11FF /* Array.swift */; };
+		8C702E9D270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C702E9C270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift */; };
+		8C89384A2707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8938492707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift */; };
+		8C89385027092B440059BC81 /* 链表 top10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C89384F27092B440059BC81 /* 链表 top10.swift */; };
+		8C89385327092D0D0059BC81 /* 字符串 Top10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C89385227092D0D0059BC81 /* 字符串 Top10.swift */; };
 		8C93C2962700B294005AF565 /* 21Array-存在重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2952700B294005AF565 /* 21Array-存在重复元素.swift */; };
-		8C93C2982700BBD6005AF565 /* 02Array-最大子序和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2972700BBD6005AF565 /* 02Array-最大子序和.swift */; };
-		8C93C29A27014DFC005AF565 /* 01Array-两数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29927014DFC005AF565 /* 01Array-两数之和.swift */; };
-		8C93C29C2702245D005AF565 /* 03Array- 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29B2702245D005AF565 /* 03Array- 买卖股票的最佳时机.swift */; };
+		8C93C2982700BBD6005AF565 /* 02 Array-最大子序和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2972700BBD6005AF565 /* 02 Array-最大子序和.swift */; };
+		8C93C29A27014DFC005AF565 /* 01 Array-两数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29927014DFC005AF565 /* 01 Array-两数之和.swift */; };
+		8C93C29C2702245D005AF565 /* 03 Array- 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29B2702245D005AF565 /* 03 Array- 买卖股票的最佳时机.swift */; };
+		8C93C29E27022C08005AF565 /* 04 Array-合并两个有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29D27022C08005AF565 /* 04 Array-合并两个有序数组.swift */; };
+		8C93C2A02702A14C005AF565 /* 05 Array-多数元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C29F2702A14C005AF565 /* 05 Array-多数元素.swift */; };
+		8C93C2A22702A163005AF565 /* 06 Array-移动零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A12702A163005AF565 /* 06 Array-移动零.swift */; };
+		8C93C2A42702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A32702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift */; };
+		8C93C2A62703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A52703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,10 +86,19 @@
 		849D31EC2575C1ED000E8605 /* ArrayTwoSum.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = ArrayTwoSum.java; sourceTree = "<group>"; };
 		84B436092570D71F00EB11FF /* 单链表.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "单链表.swift"; sourceTree = "<group>"; };
 		84B4360A2570D71F00EB11FF /* Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		8C702E9C270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09 Array 二维数组中的查找.swift"; sourceTree = "<group>"; };
+		8C8938492707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10 Array 在排序树组中查找数字.swift"; sourceTree = "<group>"; };
+		8C89384F27092B440059BC81 /* 链表 top10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "链表 top10.swift"; sourceTree = "<group>"; };
+		8C89385227092D0D0059BC81 /* 字符串 Top10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "字符串 Top10.swift"; sourceTree = "<group>"; };
 		8C93C2952700B294005AF565 /* 21Array-存在重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21Array-存在重复元素.swift"; sourceTree = "<group>"; };
-		8C93C2972700BBD6005AF565 /* 02Array-最大子序和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02Array-最大子序和.swift"; sourceTree = "<group>"; };
-		8C93C29927014DFC005AF565 /* 01Array-两数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01Array-两数之和.swift"; sourceTree = "<group>"; };
-		8C93C29B2702245D005AF565 /* 03Array- 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03Array- 买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
+		8C93C2972700BBD6005AF565 /* 02 Array-最大子序和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02 Array-最大子序和.swift"; sourceTree = "<group>"; };
+		8C93C29927014DFC005AF565 /* 01 Array-两数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01 Array-两数之和.swift"; sourceTree = "<group>"; };
+		8C93C29B2702245D005AF565 /* 03 Array- 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03 Array- 买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
+		8C93C29D27022C08005AF565 /* 04 Array-合并两个有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04 Array-合并两个有序数组.swift"; sourceTree = "<group>"; };
+		8C93C29F2702A14C005AF565 /* 05 Array-多数元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05 Array-多数元素.swift"; sourceTree = "<group>"; };
+		8C93C2A12702A163005AF565 /* 06 Array-移动零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06 Array-移动零.swift"; sourceTree = "<group>"; };
+		8C93C2A32702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07 Array 买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
+		8C93C2A52703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08 Array 删除有序数组中的重复项.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +115,8 @@
 		146F3DD52403C03F0078FB4C /* 栈和队列 */ = {
 			isa = PBXGroup;
 			children = (
+				8485FA32256DF0650068B3DD /* 栈.swift */,
+				8485FA46256E49350068B3DD /* 队列.swift */,
 				146F3DD62403C0CC0078FB4C /* Stack.swift */,
 				146F3DDA2403CF480078FB4C /* StackOnLinkedList.swift */,
 				146F3DD82403CF310078FB4C /* Browser.swift */,
@@ -104,14 +124,28 @@
 			path = "栈和队列";
 			sourceTree = "<group>";
 		};
-		146F3DDC2404290A0078FB4C /* 数组和排序 */ = {
+		146F3DDC2404290A0078FB4C /* 01 数组 */ = {
 			isa = PBXGroup;
 			children = (
+				84B4360A2570D71F00EB11FF /* Array.swift */,
+				849D31DE2575C171000E8605 /* 两数之和 */,
+				849D31E22575C171000E8605 /* 三数之和 */,
+				8C93C29927014DFC005AF565 /* 01 Array-两数之和.swift */,
+				8C93C2972700BBD6005AF565 /* 02 Array-最大子序和.swift */,
+				8C93C29B2702245D005AF565 /* 03 Array- 买卖股票的最佳时机.swift */,
+				8C93C29D27022C08005AF565 /* 04 Array-合并两个有序数组.swift */,
+				8C93C29F2702A14C005AF565 /* 05 Array-多数元素.swift */,
+				8C93C2A12702A163005AF565 /* 06 Array-移动零.swift */,
+				8C93C2A32702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift */,
+				8C93C2A52703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift */,
+				8C702E9C270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift */,
+				8C8938492707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift */,
+				8C93C2952700B294005AF565 /* 21Array-存在重复元素.swift */,
 				146F3DDD240429570078FB4C /* Sort01.swift */,
 				146F3DDF2404C3580078FB4C /* mergeSort.swift */,
 				146F3DE12404CAE50078FB4C /* quickSort.swift */,
 			);
-			path = "数组和排序";
+			path = "01 数组";
 			sourceTree = "<group>";
 		};
 		146F3DE3240627D80078FB4C /* 二分查找 */ = {
@@ -141,34 +175,16 @@
 		14EAB13D23EFB92D00FA3F87 /* Algo-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				8CEA4CF727F36D3800631BCA /* 高频 */,
 				14EAB13E23EFB92D00FA3F87 /* main.swift */,
-				8C93C29927014DFC005AF565 /* 01Array-两数之和.swift */,
-				8C93C2972700BBD6005AF565 /* 02Array-最大子序和.swift */,
-				8C93C29B2702245D005AF565 /* 03Array- 买卖股票的最佳时机.swift */,
-				848E066B256EBC2B00E96D90 /* LeetCode100.swift */,
-				8C93C2952700B294005AF565 /* 21Array-存在重复元素.swift */,
-				849D31DB2575C151000E8605 /* 字节Top100.swift */,
-				84B436092570D71F00EB11FF /* 单链表.swift */,
-				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
-				14930D452413F459009D0853 /* 链表2.swift */,
-				84B4360A2570D71F00EB11FF /* Array.swift */,
-				8485FA45256E491F0068B3DD /* 线性表 */,
-				8485FA4A256E49450068B3DD /* 非线性表 */,
+				146F3DDC2404290A0078FB4C /* 01 数组 */,
+				8C89384E27092A470059BC81 /* 02 链表 */,
+				8C89385127092CE40059BC81 /* 03 字符串 */,
 				146F3DD52403C03F0078FB4C /* 栈和队列 */,
-				146F3DDC2404290A0078FB4C /* 数组和排序 */,
+				8485FA4A256E49450068B3DD /* 非线性表 */,
 				146F3DE3240627D80078FB4C /* 二分查找 */,
 			);
 			path = "Algo-Swift";
-			sourceTree = "<group>";
-		};
-		8485FA45256E491F0068B3DD /* 线性表 */ = {
-			isa = PBXGroup;
-			children = (
-				849D31D125753397000E8605 /* 数组 */,
-				8485FA32256DF0650068B3DD /* 栈.swift */,
-				8485FA46256E49350068B3DD /* 队列.swift */,
-			);
-			path = "线性表";
 			sourceTree = "<group>";
 		};
 		8485FA4A256E49450068B3DD /* 非线性表 */ = {
@@ -180,15 +196,6 @@
 				8485FA3C256E2F690068B3DD /* BFS.swift */,
 			);
 			path = "非线性表";
-			sourceTree = "<group>";
-		};
-		849D31D125753397000E8605 /* 数组 */ = {
-			isa = PBXGroup;
-			children = (
-				849D31DE2575C171000E8605 /* 两数之和 */,
-				849D31E22575C171000E8605 /* 三数之和 */,
-			);
-			path = "数组";
 			sourceTree = "<group>";
 		};
 		849D31DE2575C171000E8605 /* 两数之和 */ = {
@@ -209,6 +216,34 @@
 				849D31E52575C171000E8605 /* ThreeSum.md */,
 			);
 			path = "三数之和";
+			sourceTree = "<group>";
+		};
+		8C89384E27092A470059BC81 /* 02 链表 */ = {
+			isa = PBXGroup;
+			children = (
+				8C89384F27092B440059BC81 /* 链表 top10.swift */,
+				84B436092570D71F00EB11FF /* 单链表.swift */,
+				14EAB14723EFC79900FA3F87 /* 链表1.swift */,
+				14930D452413F459009D0853 /* 链表2.swift */,
+			);
+			path = "02 链表";
+			sourceTree = "<group>";
+		};
+		8C89385127092CE40059BC81 /* 03 字符串 */ = {
+			isa = PBXGroup;
+			children = (
+				8C89385227092D0D0059BC81 /* 字符串 Top10.swift */,
+			);
+			path = "03 字符串";
+			sourceTree = "<group>";
+		};
+		8CEA4CF727F36D3800631BCA /* 高频 */ = {
+			isa = PBXGroup;
+			children = (
+				848E066B256EBC2B00E96D90 /* LeetCode100.swift */,
+				849D31DB2575C151000E8605 /* 字节Top100.swift */,
+			);
+			path = "高频";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,19 +308,25 @@
 				8495F59F25748DB900469A62 /* 网格结构.swift in Sources */,
 				8485FA33256DF0650068B3DD /* 栈.swift in Sources */,
 				8485FA39256E2F550068B3DD /* 二叉树.swift in Sources */,
+				8C93C2A42702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift in Sources */,
 				14930D462413F459009D0853 /* 链表2.swift in Sources */,
 				84B4360B2570D71F00EB11FF /* 单链表.swift in Sources */,
 				849D31ED2575C1ED000E8605 /* ArrayTwoSum.java in Sources */,
-				8C93C2982700BBD6005AF565 /* 02Array-最大子序和.swift in Sources */,
+				8C93C2A02702A14C005AF565 /* 05 Array-多数元素.swift in Sources */,
+				8C93C2982700BBD6005AF565 /* 02 Array-最大子序和.swift in Sources */,
 				146F3DD72403C0CC0078FB4C /* Stack.swift in Sources */,
 				849D31DC2575C151000E8605 /* 字节Top100.swift in Sources */,
-				8C93C29A27014DFC005AF565 /* 01Array-两数之和.swift in Sources */,
+				8C89385027092B440059BC81 /* 链表 top10.swift in Sources */,
+				8C93C29A27014DFC005AF565 /* 01 Array-两数之和.swift in Sources */,
 				849D31E62575C172000E8605 /* ArrayTwoSum.swift in Sources */,
 				8485FA40256E2F780068B3DD /* DFS.swift in Sources */,
 				146F3DE5240627FC0078FB4C /* BinarySearch.swift in Sources */,
 				8C93C2962700B294005AF565 /* 21Array-存在重复元素.swift in Sources */,
 				8485FA3D256E2F690068B3DD /* BFS.swift in Sources */,
-				8C93C29C2702245D005AF565 /* 03Array- 买卖股票的最佳时机.swift in Sources */,
+				8C702E9D270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift in Sources */,
+				8C89385327092D0D0059BC81 /* 字符串 Top10.swift in Sources */,
+				8C93C29C2702245D005AF565 /* 03 Array- 买卖股票的最佳时机.swift in Sources */,
+				8C93C29E27022C08005AF565 /* 04 Array-合并两个有序数组.swift in Sources */,
 				146F3DD92403CF310078FB4C /* Browser.swift in Sources */,
 				146F3DDB2403CF480078FB4C /* StackOnLinkedList.swift in Sources */,
 				14EAB14823EFC79900FA3F87 /* 链表1.swift in Sources */,
@@ -293,6 +334,9 @@
 				848E066C256EBC2B00E96D90 /* LeetCode100.swift in Sources */,
 				14EAB13F23EFB92D00FA3F87 /* main.swift in Sources */,
 				8485FA47256E49350068B3DD /* 队列.swift in Sources */,
+				8C93C2A22702A163005AF565 /* 06 Array-移动零.swift in Sources */,
+				8C93C2A62703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift in Sources */,
+				8C89384A2707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift in Sources */,
 				84B4360C2570D71F00EB11FF /* Array.swift in Sources */,
 				849D31E82575C172000E8605 /* ThreeSum.java in Sources */,
 				849D31E92575C172000E8605 /* ThreeSum.swift in Sources */,

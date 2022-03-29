@@ -20,11 +20,6 @@ import Foundation
 * 9) 两数之和
 * 10) 合并两个有序链表
 */
-///1) 两数之和
-func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-
-    return []
-}
 
 /**
  * 11) 最大子序和

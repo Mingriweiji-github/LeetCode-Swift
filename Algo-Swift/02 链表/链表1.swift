@@ -69,6 +69,9 @@ func deleteNode(_ head: ListNode?, _ val: Int) -> ListNode? {
   - 循环终止条件是pre为空
  */
 func reverseList(_ head: ListNode?) -> ListNode? {
+    
+    
+    
     if head == nil || head?.next == nil { return head }
     var pre = head,cur: ListNode?
     while pre != nil {

@@ -8,12 +8,11 @@
 
 import Foundation
 
-let nums1 = [1,1,1,3,3,4,3,2,4,2]
-print(containsDuplicate(nums1))
+/**
+ 栈 StackSolution
+ */
 
-
-let nums2 = [-2,1,-3,4,-1,2,1,-5,4]
-print(maxSubArray(nums2))
-
-let maxProfits = [7,1,5,3,6,4]
-print(maxProfits(maxProfits))
+//let temperatures = [73,74,75,71,69,72,76,73]
+//let temperatures = [30,60,90]
+//let days = StackSolution().dailyTemperatures(temperatures)
+//print(days)
