@@ -44,6 +44,7 @@
 		8C93C2A22702A163005AF565 /* 06 Array-移动零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A12702A163005AF565 /* 06 Array-移动零.swift */; };
 		8C93C2A42702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A32702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift */; };
 		8C93C2A62703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C93C2A52703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift */; };
+		8CEA4CF927F376F700631BCA /* 0001_反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEA4CF827F376F700631BCA /* 0001_反转链表.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -99,6 +100,7 @@
 		8C93C2A12702A163005AF565 /* 06 Array-移动零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06 Array-移动零.swift"; sourceTree = "<group>"; };
 		8C93C2A32702A2FB005AF565 /* 07 Array 买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07 Array 买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		8C93C2A52703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08 Array 删除有序数组中的重复项.swift"; sourceTree = "<group>"; };
+		8CEA4CF827F376F700631BCA /* 0001_反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "0001_反转链表.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -242,6 +244,7 @@
 			children = (
 				848E066B256EBC2B00E96D90 /* LeetCode100.swift */,
 				849D31DB2575C151000E8605 /* 字节Top100.swift */,
+				8CEA4CF827F376F700631BCA /* 0001_反转链表.swift */,
 			);
 			path = "高频";
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 				146F3DE02404C3580078FB4C /* mergeSort.swift in Sources */,
 				848E066C256EBC2B00E96D90 /* LeetCode100.swift in Sources */,
 				14EAB13F23EFB92D00FA3F87 /* main.swift in Sources */,
+				8CEA4CF927F376F700631BCA /* 0001_反转链表.swift in Sources */,
 				8485FA47256E49350068B3DD /* 队列.swift in Sources */,
 				8C93C2A22702A163005AF565 /* 06 Array-移动零.swift in Sources */,
 				8C93C2A62703EB61005AF565 /* 08 Array 删除有序数组中的重复项.swift in Sources */,
