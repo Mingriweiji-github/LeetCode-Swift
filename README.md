@@ -109,10 +109,10 @@
 ---
 ## 高频题目 20 个
 
-| 1    | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | 容易 | 2022-03-07 | 32   |      | [解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) |
+| 1    | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | 容易 | 2022-03-07 | 32   |      | [反转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) |
 | ---- | ------------------------------------------------------------ | ---- | ---------- | ---- | ---- | ---------------- |
-| 2    | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | 中等 | 2022-03-10 | 25   |      | [解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) |
-| 3    | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | 容易 | 2022-03-21 | 24   |      | 未做笔记更多(17) |
+| 2    | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | 中等 | 2022-03-10 | 25   |      | [数组中的第K个最大元素解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) |
+| 3    | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | 容易 | 2022-03-21 | 24   |      | [相交链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) |
 | 4    | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | 中等 | 2022-03-04 | 23   |      | 未做笔记更多(30) |
 | 5    | [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | 困难 | 2022-01-29 | 22   |      | 未做笔记更多(39) |
 | 6    | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | 中等 | 2022-03-23 | 21   |      | 未做笔记更多(47) |
