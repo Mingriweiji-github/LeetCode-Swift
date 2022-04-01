@@ -31,6 +31,7 @@
 		849D31ED2575C1ED000E8605 /* ArrayTwoSum.java in Sources */ = {isa = PBXBuildFile; fileRef = 849D31EC2575C1ED000E8605 /* ArrayTwoSum.java */; };
 		84B4360B2570D71F00EB11FF /* 单链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B436092570D71F00EB11FF /* 单链表.swift */; };
 		84B4360C2570D71F00EB11FF /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B4360A2570D71F00EB11FF /* Array.swift */; };
+		8C4AAD7527F742BE002C9806 /* LRU 缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4AAD7427F742BE002C9806 /* LRU 缓存.swift */; };
 		8C702E9D270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C702E9C270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift */; };
 		8C89384A2707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8938492707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift */; };
 		8C89385027092B440059BC81 /* 链表 top10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C89384F27092B440059BC81 /* 链表 top10.swift */; };
@@ -87,6 +88,7 @@
 		849D31EC2575C1ED000E8605 /* ArrayTwoSum.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = ArrayTwoSum.java; sourceTree = "<group>"; };
 		84B436092570D71F00EB11FF /* 单链表.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "单链表.swift"; sourceTree = "<group>"; };
 		84B4360A2570D71F00EB11FF /* Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		8C4AAD7427F742BE002C9806 /* LRU 缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LRU 缓存.swift"; sourceTree = "<group>"; };
 		8C702E9C270680EB00A3D8AC /* 09 Array 二维数组中的查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "09 Array 二维数组中的查找.swift"; sourceTree = "<group>"; };
 		8C8938492707E2030059BC81 /* 10 Array 在排序树组中查找数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10 Array 在排序树组中查找数字.swift"; sourceTree = "<group>"; };
 		8C89384F27092B440059BC81 /* 链表 top10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "链表 top10.swift"; sourceTree = "<group>"; };
@@ -245,6 +247,7 @@
 				848E066B256EBC2B00E96D90 /* LeetCode100.swift */,
 				849D31DB2575C151000E8605 /* 字节Top100.swift */,
 				8CEA4CF827F376F700631BCA /* 0001_反转链表.swift */,
+				8C4AAD7427F742BE002C9806 /* LRU 缓存.swift */,
 			);
 			path = "高频";
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				849D31DC2575C151000E8605 /* 字节Top100.swift in Sources */,
 				8C89385027092B440059BC81 /* 链表 top10.swift in Sources */,
 				8C93C29A27014DFC005AF565 /* 01 Array-两数之和.swift in Sources */,
+				8C4AAD7527F742BE002C9806 /* LRU 缓存.swift in Sources */,
 				849D31E62575C172000E8605 /* ArrayTwoSum.swift in Sources */,
 				8485FA40256E2F780068B3DD /* DFS.swift in Sources */,
 				146F3DE5240627FC0078FB4C /* BinarySearch.swift in Sources */,
