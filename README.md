@@ -1,110 +1,31 @@
 # Swift Club
 
-## 数组-简单
 
-<table>
-  <tbody>
-  <tr>
-    <th>原题</th>
-    <th>思路</th>
-    <th>最优解</th>
-    <th>难度程度</th>
-    <th>时间复杂度</th>
-    <th>空间复杂度<th>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">存在重复元素</font></td>
-    <td><font color="AliceBlue"><a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L31-L47">初步解法</a></font></td>
-    <td><font color="AliceBlue"> <a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L54-L64">最优解</a></font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">两数之和</font></td>
-    <td><font color="AliceBlue">地址</font></td>
-	  <td><font color="AliceBlue">最优解</font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">两数之和</font></td>
-    <td><font color="AliceBlue">地址</font></td>
-	  <td><font color="AliceBlue">最优解</font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">两数之和</font></td>
-    <td><font color="AliceBlue">地址</font></td>
-	  <td><font color="AliceBlue">最优解</font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-</table>
-## 数组-中度 
-<table>
-  <tbody>
-  <tr>
-    <th>原题</th>
-    <th>思路</th>
-    <th>最优解</th>
-    <th>难度程度</th>
-    <th>时间复杂度</th>
-    <th>空间复杂度<th>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">存在重复元素</font></td>
-    <td><font color="AliceBlue"><a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L31-L47">初步解法</a></font></td>
-    <td><font color="AliceBlue"> <a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L54-L64">最优解</a></font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-  <tr>
-    <td><font color="AntiqueWhite">三数之和</font></td>
-    <td><font color="AntiqueWhite">题解</font></td>
-    <td><font color="AntiqueWhite">最优解</font></td>
-    <td><font color="AntiqueWhite">中等</font></td>
-    <td><font color="AntiqueWhite">?</font></td>
-    <td><font color="AntiqueWhite">?</font></td>
-  </tr>
-</table>
+## 数组
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+|  两数之和    |  [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)        |      |
+|  三数之和    | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)         |      |
+| 存在重复元素     |  [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L31-L47)  [最优题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L54-L64)      |      |
+|      |          |      |
+|      |          |      |
+|      |          |      |
+|      |          |      |
+
+## 动态规划
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+| 爬楼梯 | [爬楼梯](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP1%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) |      |
+| 连续最大子数组| [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) |      |
+| 最小路径和     |  [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)  |      |
+| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2i.md) |      |
+|      |          |      |
+|      |          |      |
+|      |          |      |
 
 
-## 数组-难
 
 
-<table>
-  <tbody>
-  <tr>
-    <th>原题</th>
-    <th>思路</th>
-    <th>最优解</th>
-    <th>难度程度</th>
-    <th>时间复杂度</th>
-    <th>空间复杂度<th>
-  </tr>
-  <tr>
-    <td><font color="AliceBlue">存在重复元素</font></td>
-    <td><font color="AliceBlue"><a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L31-L47">初步解法</a></font></td>
-    <td><font color="AliceBlue"> <a href="https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L54-L64">最优解</a></font></td>
-    <td><font color="AliceBlue">简单</font></td>
-    <td><font color="AliceBlue">?</font></td>
-    <td><font color="AliceBlue">?</font></td>
-  </tr>
-  <tr>
-    <td><font color="PaleVioletRed">PaleVioletRed</font></td>
-    <td><font color="PaleVioletRed">#D87093</font></td>
-    <td><font color="PaleVioletRed">最优解</font></td>
-    <td><font color="PaleVioletRed">难</font></td>
-    <td><font color="PaleVioletRed">?</font></td>
-    <td><font color="PaleVioletRed">?</font></td>
-  </tr>
-</table>
 
 ---
 ## 高频题目 20 个
