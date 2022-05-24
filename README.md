@@ -24,15 +24,20 @@
 |      |          |      |
 
 ## 二叉树
-| 名称 | 文档地址 | 简介 |
+| 名称 | 文档地址 | 出现次数 |
 | :--- | :------- | :--- |
-| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)    |          |      |
-| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)    |          |      |
-| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)     |          |      |
-| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)    |          |      |
-| [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)    |          |      |
-|      |          |      |
-|      |          |      |
+| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)     |          |  17次    |
+| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)    |          |  14 次    |
+| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)    |          |   13 次   |
+| [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)    |          |   10 次   |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)    |          |  10 次    |
+| [958. 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree)     |          |  9次    |
+| [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)     |          |   8 次   |
+| [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)    |          |    6 次   |
+|  [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)    |          |  6次    |
+|  [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)     |          |   5次   |
+|  [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)    |          |  5次    |
+|  [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)    |          |    5次  |
 
 ## 动态规划 - 最大面积 最小路径 最大子数组和 最长子串
 | 名称 | 文档地址 | 简介 |
