@@ -40,14 +40,14 @@
 |  [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)    |          |    5次  |
 
 ## 动态规划 - 最大面积 最小路径 最大子数组和 最长子串
-| 名称 | 文档地址 | 简介 |
+| 名称 | 题解地址 | 次数 |
 | :--- | :------- | :--- |
-| 爬楼梯 | [爬楼梯](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP1%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) |      |
-| 连续最大子数组| [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) |      |
+| 爬楼梯 | [爬楼梯](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP1%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) |    5 次   |
+| 53. 最大子序和 | [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) |  19 次    |
 | 最小路径和     |  [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)  |      |
-| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |      |
+| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |   25 次   |
 |  最大子数组和    |  [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)        |      |
-|  接雨水    | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)          |      |
+|  接雨水    | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)          |   8 次   |
 |      |          |      |
 
 
