@@ -44,9 +44,9 @@
 
 ---
 ## 高频题目 20 个
-
+|  编号  | LeetCode地址 | 难易度 | 日期 | 次数   |      |      题解地址            |
+| :--- | :------- | :--- | :--- | :--- | :--- | :--- |
 | 1    | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | 容易 | 2022-03-07 | 32   |      | [反转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) |
-| ---- | ------------------------------------------------------------ | ---- | ---------- | ---- | ---- | ---------------- |
 | 2    | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | 中等 | 2022-03-10 | 25   |      | [数组中的第K个最大元素解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) |
 | 3    | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | 容易 | 2022-03-21 | 24   |      | [相交链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) |
 | 4    | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | 中等 | 2022-03-04 | 23   |      | [3.无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |
@@ -62,18 +62,16 @@
 | 14   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | 中等 | 2022-02-21 | 13   |      | 未做笔记更多(14) |
 | 15   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | 容易 | 2022-01-12 | 13   |      | 未做笔记更多(19) |
 | 16   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | 中等 | 2021-08-11 | 12   |      | 未做笔记更多(14) |
-| 17   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | 容易 | 2022-03-12 | 10   |      | 未做笔记更多(6)  |
-| 18   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | 容易 | 2021-09-07 | 10   |      |                  |
-|  19  | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | 困难  | 2022-03-23 |  9  |      |                  |
-|  20  | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | 中等 | 2022-01-11 | 9 |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
-|  20  |  | 容易 |  |    |      |                  |
+| 17   | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | 中等 | 2021-08-11 | 12   |      | 未做笔记更多(14) |
+| 18   | [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 2021-08-11 | 12 |  | 未做笔记更多(14) |
+| 19   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | 容易 | 2022-03-12 | 12   |      | 未做笔记更多(6)  |
+| 20   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | 容易 | 2021-09-07 | 10   |      |                  |
+|  21  | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | 困难  | 2022-03-23 |  10  |      |                  |
+|  22  | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | 中等 | 2022-01-11 | 10 |      |                  |
+|  23  |  | 容易 |  |    |      |                  |
+|  24  |  | 容易 |  |    |      |                  |
+|  25  |  | 容易 |  |    |      |                  |
+
 
 
 
