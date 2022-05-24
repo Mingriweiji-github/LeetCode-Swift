@@ -39,9 +39,9 @@
 | 6    | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | 中等 | 2022-03-23 | 21   |      | [LRU缓存机制解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) |
 | 7    | [53.最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | 容易 | 2022-01-21 | 19   |      | [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) |
 | 8    | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | 中等 | 2022-03-01 | 17   |      | 未做笔记更多(16) |
-| 9    | [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | 中等 | 2022-03-07 | 15   |      | 未做笔记更多(29) |
-| 10   | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | 容易 | 2022-01-07 | 15   |      | 未做笔记更多(17) |
-| 11   | [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | 容易 | 2021-12-30 | 15   |      | 未做笔记更多(24) |
+| 9    | [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | 中等 | 2022-03-07 | 15   |      | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |
+| 10   | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | 容易 | 2022-01-07 | 15   |      | [买卖股票的最佳时机](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) |
+| 11   | [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | 容易 | 2021-12-30 | 15   |      | [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)  |
 | 12   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | 中等 | 2022-03-02 | 14   |      | 未做笔记更多(25) |
 | 13   | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | 中等 | 2022-01-18 | 14   |      | 未做笔记更多(20) |
 | 14   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | 中等 | 2022-02-21 | 13   |      | 未做笔记更多(14) |
