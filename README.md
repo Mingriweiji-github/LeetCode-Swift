@@ -39,7 +39,7 @@
 | 最小路径和     |  [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)  |      |
 | 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |      |
 |  最大子数组和    |  [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)        |      |
-|      |          |      |
+|  接雨水    | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)          |      |
 |      |          |      |
 
 
@@ -55,7 +55,7 @@
 | 名称 | 文档地址 | 简介 |
 | :--- | :------- | :--- |
 |  三数之和    | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)         |      |
-|      |          |      |
+|  接雨水    |  [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)           |      |
 |      |          |      |
 |      |          |      |
 
