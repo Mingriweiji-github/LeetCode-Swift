@@ -19,7 +19,7 @@
 | 连续最大子数组| [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) |      |
 | 最小路径和     |  [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)  |      |
 | 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |      |
-|  [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)    |          |      |
+|  最大子数组和    |  [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)        |      |
 |      |          |      |
 |      |          |      |
 
