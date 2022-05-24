@@ -43,7 +43,21 @@
 |      |          |      |
 
 
+## 哈希表解法
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+|  两数之和    |  [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)        |      |
+|      |          |      |
+|      |          |      |
+|      |          |      |
 
+## 双指针解法
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+|  三数之和    | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)         |      |
+|      |          |      |
+|      |          |      |
+|      |          |      |
 
 
 ---
