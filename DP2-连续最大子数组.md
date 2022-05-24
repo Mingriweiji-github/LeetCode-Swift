@@ -38,10 +38,9 @@ Follow up: If you have figured out the O(n) solution, try coding another solutio
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 
+[题解](https://leetcode.cn/problems/maximum-subarray/solution/dong-tai-gui-hua-fen-zhi-fa-python-dai-ma-java-dai/)
 
-#### [题解](https://leetcode.cn/problems/maximum-subarray/solution/dong-tai-gui-hua-fen-zhi-fa-python-dai-ma-java-dai/)
-
-![](https://pic.imgdb.cn/item/628806cf0947543129a9587e.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2jt3s7ihhj20u00zjgqb.jpg)
 
 ```swift
 // 解题思路
