@@ -26,11 +26,11 @@
 ## 二叉树
 | 名称 | 文档地址 | 简介 |
 | :--- | :------- | :--- |
-| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)     |          |      |
+| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)    |          |      |
 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)    |          |      |
+| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)     |          |      |
 | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)    |          |      |
 | [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)    |          |      |
-| [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)    |          |      |
 |      |          |      |
 |      |          |      |
 
