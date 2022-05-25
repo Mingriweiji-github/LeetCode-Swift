@@ -21,12 +21,10 @@
 |  [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)   | [合并两个有序链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) |    13 次   |
 |  [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)    | [删除排序链表中重复元素II](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md) |   10 次    |
 |  [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)    | [19. 删除链表的倒数第 N 个结点](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E8%8A%82%E7%82%B9.md) |   9次   |
-| [83. 删除排序链表中的重复](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) |          |    9 次  |
-|  [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)     |          |   8 次   |
-|  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)    |          |   8 次   |
-|  [剑指 Offer 22. 链表中倒数第k](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)    |          |   6次   |
-| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) |   | 5次 |
-| [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) |   | 4次 |
+| [83. 删除排序链表中的重复](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) |    9 次  |
+|  [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)     | [环形链表II](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md) |   8 次   |
+|  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)    | [环形链表](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) |   8 次   |
+
 
 ## 链表 BY All
 | 名称 | 题解地址 | 出现 |
@@ -38,11 +36,11 @@
 | [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) |   | 64次 |
 |  [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)   |          |    56 次   |
 |  [92. 反转链表 II]()    |   [反转链表II解题思路]()       |    52 次   |
-|  [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)    |          |   10 次    |
-|  [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)    |          |   31次   |
-| [82. 删除排序链表中的重复](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) |          |    37 次  |
-|  [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)     |          |   41 次   |
-|  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)    |          |   51 次   |
+|  [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)    | [删除排序链表中重复元素II](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0II.md) |   10 次    |
+|  [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)    | [19. 删除链表的倒数第 N 个结点](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E8%8A%82%E7%82%B9.md) |   31次   |
+| [82. 删除排序链表中的重复](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) |    37 次  |
+|  [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)     |   [环形链表II](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)       |   41 次   |
+|  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)    |  [环形链表](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)        |   51 次   |
 |  [剑指 Offer 22. 链表中倒数第k](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)    |          |   29次   |
 
 ## 二叉树
