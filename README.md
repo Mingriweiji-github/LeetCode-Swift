@@ -29,9 +29,9 @@
 ## 链表 BY All
 | 名称 | 题解地址 | 出现 |
 | :--- | :------- | :--- |
-|  [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)   |   [K 个一组翻转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)        |    166 次   |
-|  [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list)    |   [反转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)       |    149 次   |
-|  [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)    |   [相交链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)       |   93 次    |
+|  [25. K 个一组翻转链表 hard](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)   |   [K 个一组翻转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)        |    166 次   |
+|  [206. 反转链表 easy](https://leetcode-cn.com/problems/reverse-linked-list)    |   [反转链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)       |    149 次   |
+|  [160. 相交链表 easy](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)    |   [相交链表解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)       |   93 次    |
 | [23. 合并K个排序链表 hard](https://leetcode-cn.com/problems/merge-k-sorted-lists) |   | 72次 |
 | [143. 重排链表 media](https://leetcode-cn.com/problems/reorder-list) |   | 64次 |
 |  [21. 合并两个有序链表 easy](https://leetcode-cn.com/problems/merge-two-sorted-lists)   |          |    56 次   |
