@@ -63,20 +63,16 @@
 
 https://leetcode-cn.com/problems/lru-cache/solution/shi-pin-jiang-jie-qing-xi-zhi-guan-by-ge-zj3c/
 
-
+> 执行用时：1276 ms, 在所有 Swift 提交中击败了38.24%的用户
+>
+> 内存消耗：30.9 MB, 在所有 Swift 提交中击败了45.22%的用户
+>
+> 通过测试用例：22 / 22
 
 ```swift
-/*
- LRUCache(int capacity) 以 正整数 作为容量 capacity 初始化 LRU 缓存
- int get(int key) 如果关键字 key 存在于缓存中，则返回关键字的值，否则返回 -1 。
- void put(int key, int value) 如果关键字 key 已经存在，则变更其数据值 value ；如果不存在，则向缓存中插入该组 key-value 。如果插入操作导致关键字数量超过 capacity ，则应该 逐出 最久未使用的关键字。
 
- 来源：力扣（LeetCode）
- 链接：https://leetcode-cn.com/problems/lru-cache
- 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
- */
-class LURCache {
-    var capacity: Int
+class LRUCache {
+var capacity: Int
     // 构建双向链表
     class DoubleNode {
         var key: Int
@@ -98,13 +94,13 @@ class LURCache {
     // 如果关键字 key 存在于缓存中，则返回关键字的值，否则返回 -1 。
     func get(_ key: Int) -> Int {
         if let node = map[key] {
-            moveFirst(node)
+            move(node)
             return node.value
         } else {
             return -1
         }
     }
-    func moveFirst(_ node: DoubleNode) {
+    func move(_ node: DoubleNode) {
         // 临界点1
         if node === first {
             return
@@ -123,42 +119,54 @@ class LURCache {
         first = node
     }
     /**
-      如果关键字 key 已经存在，则变更其数据值 value ；如果不存在，则向缓存中插入该组 key-value 。如果插入操作导致关键字数量超过 capacity ，则应该 逐出 最久未使用的关键字。
+      如果关键字 key 已经存在，则变更其数据值 value ；如果不存在，则向缓存中插入该组 key-value 。如果插入操作导致关键字数量超过 capacity ，则应该 逐出 最久未使用的关键字。
      */
     func put(_ key: Int, _ value: Int) {
         if let node = map[key] {
             node.value = value
-            moveFirst(node)
+            move(node)
         } else {
             add(key, value)
         }
     }
     func add(_ key: Int, _ value: Int) {
         if map.keys.count == capacity {
-            deleteLast()
+            delete()
         }
         // 分别插入到链表和哈希表
         let node = DoubleNode(key, value)
         node.next = first
         first?.pre = node
+        
+        // 注意这里
+        first = node 
+
         // 哈希表中的 value 存放的是 node
         map[key] = node
-        
         // 临界区: last 为空
         if last == nil {
             last = node
         }
+        
     }
-    func deleteLast() {
+    func delete() {
         if let last = last {
             map.removeValue(forKey: last.key)
             self.last = last.pre
             self.last?.next = nil
-        }
-        // 临界区
-        
+            if first === last {
+                first = nil
+            }
+        }        
     }
 }
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * let obj = LRUCache(capacity)
+ * let ret_1: Int = obj.get(key)
+ * obj.put(key, value)
+ */
 
 ```
 
