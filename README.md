@@ -1,6 +1,23 @@
 # Swift Club
 
 
+## 哈希表解法
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+|  两数之和    |  [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)        |      |
+| [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | [LRU缓存机制解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) |
+|      |          |      |
+
+
+
+## 双指针解法
+| 名称 | 文档地址 | 简介 |
+| :--- | :------- | :--- |
+|  三数之和    | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)         |      |
+|  接雨水    |  [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)           |      |
+|  [143. 重排链表](https://leetcode-cn.com/problems/reorder-list)    |          | [重排链表思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md)       |
+|      |          |      |
+
 ## 数组
 | 名称 | 文档地址 | 简介 |
 | :--- | :------- | :--- |
@@ -57,22 +74,6 @@
 |  接雨水    | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)          |   8 次   |
 |      |          |      |
 
-
-## 哈希表解法
-| 名称 | 文档地址 | 简介 |
-| :--- | :------- | :--- |
-|  两数之和    |  [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)        |      |
-|      |          |      |
-|      |          |      |
-|      |          |      |
-
-## 双指针解法
-| 名称 | 文档地址 | 简介 |
-| :--- | :------- | :--- |
-|  三数之和    | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)         |      |
-|  接雨水    |  [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)           |      |
-|  [143. 重排链表](https://leetcode-cn.com/problems/reorder-list)    |          | [重排链表思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md)       |
-|      |          |      |
 
 
 ---
