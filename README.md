@@ -1,6 +1,11 @@
 # Swift Club
 
 
+[牛客网Top101](https://www.nowcoder.com/exam/oj?page=1&tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295)
+
+[字节 Top60](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/Top60-%E5%AD%97%E8%8A%82.md)
+
+
 
 **建议顺序: 数组->链表->哈希表->字符串->栈与队列->二叉树->回溯->贪心->动态规划->图论->高级数据结构**
 
@@ -219,21 +224,3 @@
 | [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) |                                                              | [重排链表思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) |
 |                                                              |                                                              |                                                              |
 
-
-
-
-
-[牛客网Top01](https://www.nowcoder.com/exam/oj?page=1&tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295)
-
----
-[字节 Top60](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E8%8A%82%20Top50.md)
-
-##### 二叉树树 14 
-
-#####  链表 10 
-
-#####  数组 6
-
-#####  字符串 5 
-
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h2p2vgb73sj213t0u076b.jpg)
