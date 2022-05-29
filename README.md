@@ -1,9 +1,57 @@
 # Swift Club
 
+## 哈希表
+
+| 名称                                                         | 文档地址                                                     | 简介 |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
+| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) |                                                              |      |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
+| [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | [LRU缓存机制解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) |      |
+| [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) |                                                              |      |
+| [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) |                                                              |      |
+| [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) |                                                              |      |
+| [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures) |                                                              |      |
+| [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer) |                                                              |      |
+| [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) |                                                              |      |
+| [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) |                                                              |      |
 
 
 
-## 链表 BY All
+## 数组
+
+| 名称                                                         | 文档地址                                                     | 次数 |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
+| [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | [15 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
+| [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) |                                                              |      |
+| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |                                                              |      |
+| [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | [1 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) |                                                              |      |
+| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) |                                                              |      |
+| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) |                                                              |      |
+| [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation) |                                                              |      |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) |                                                              |      |
+| [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) |                                                              |      |
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |                                                              |      |
+| [105. 从前序与中序遍历序列构](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |                                                              |      |
+| [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) |                                                              |      |
+
+## 排序
+
+| 名称                                                         | 文档地址 | 简介 |
+| :----------------------------------------------------------- | :------- | :--- |
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |          |      |
+| [148. 排序链表](https://leetcode-cn.com/problems/sort-list)  |          |      |
+| [补充题4. 手撕快速排序](https://leetcode-cn.com/problems/sort-an-array) |          |      |
+| [179. 最大数](https://leetcode-cn.com/problems/largest-number) |          |      |
+| [补充题6. 手撕堆排序](https://leetcode-cn.com/problems/sort-an-array) |          |      |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors) |          |      |
+| [253. 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii) |          |      |
+| [剑指 Offer 45. 把数组排成最小](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof) |          |      |
+| [补充题5. 手撕归并排序](https://leetcode-cn.com/problems/sort-an-array) |          |      |
+| [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) |          |      |
+| [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) |          |      |
+
+## 01 链表
 
 | 名称 | 题解地址 | 出现 |
 | :--- | :------- | :--- |
@@ -27,7 +75,27 @@
 | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) WS2 |          |      |
 |      |          |      |
 
-## 二叉树
+## 02 二分法
+
+| 名称                                                         | 文档地址 | 简介 |
+| :----------------------------------------------------------- | :------- | :--- |
+| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |          |      |
+| [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) |          |      |
+| [704. 二分查找](https://leetcode-cn.com/problems/binary-search) |          |      |
+| [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) |          |      |
+| [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) |          |      |
+| [34. 在排序数组中查找元素的](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) |          |      |
+| [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) |          |      |
+| [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) |          |      |
+| [153. 寻找旋转排序数组中的](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) |          |      |
+| [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | 中       |      |
+| [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n)     |          |      |
+|                                                              |          |      |
+|                                                              |          |      |
+
+
+## 03 二叉树
+
 | 名称 | 文档地址 | 出现次数 |
 | :--- | :------- | :--- |
 | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) WS11 | [二叉树的锯齿形层次遍历](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E7%BA%A7%E9%81%8D%E5%8E%86.md) |  17次    |
@@ -43,36 +111,7 @@
 |  [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)    |          |  5次    |
 |  [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)    |          |    5次  |
 
-##### 二叉树-Microsoft
-
-
-| 名称                                                         | 题解地址 | 出现 |
-| :----------------------------------------------------------- | :------- | :--- |
-| [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) |          | 20   |
-| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) |          | 18   |
-| [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | 中等     | 16   |
-| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) |          | 11   |
-| [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) |          | 11   |
-| [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | 中等     | 8    |
-| [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | 容易     | 8    |
-| [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) |          | 7    |
-| [补充题12. 二叉树的下一个节点](https://mp.weixin.qq.com/s/yewlHvHSilMsrUMFIO8WAA) |          | 6    |
-| [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | 容易     | 5    |
-| [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) |          | 5    |
-| [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | 中       | 4    |
-| [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | 中等     | 3    |
-| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof) | 中等     | 4    |
-| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes) | 中       | 3    |
-| [968. 监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras) |          | 2    |
-| [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) |          | 2    |
-| [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) |          | 2    |
-| [662. 二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree) |          | 2    |
-| [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) |          | 2    |
-| [510. 二叉搜索树中的中序后](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii) |          | 2    |
-| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree) |          | 2    |
-| [426. 将二叉搜索树转化为排序的双向链表](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) |          | 2    |
-
-## 栈 队列
+## 04 栈 队列
 
 | 名称| 文档地址 | 简介 |
 | :----------------------------------------------------------- | :------- | :--- |
@@ -85,6 +124,27 @@
 |      |          |      |
 |      |          |      |
 |      |          |      |
+
+## 06 递归/回溯
+
+| 名称                                                         | 文档地址                                                     | 简介 |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
+| 两数之和                                                     | [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
+| [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | [LRU缓存机制解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) |      |
+|                                                              |                                                              |      |
+
+## 动态规划 - 最大面积 最小路径 最大子数组和 最长子串
+
+| 名称                 | 题解地址                                                     | 次数  |
+| :------------------- | :----------------------------------------------------------- | :---- |
+| 爬楼梯               | [爬楼梯](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP1%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 5 次  |
+| 53. 最大子序和       | [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) | 19 次 |
+| 最小路径和           | [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) |       |
+| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) | 25 次 |
+| 最大子数组和         | [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) |       |
+| 接雨水               | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) | 8 次  |
+|                      |                                                              |       |
+
 
 
 ## 字符串
@@ -102,48 +162,7 @@
 |                                                              |          |      |
 |                                                              |          |      |
 
-## 数组
-
-| 名称                                                         | 文档地址                                                     | 简介 |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
-| [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) |                                                              |      |
-| [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) |                                                              |      |
-| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) |                                                              |      |
-| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |                                                              |      |
-| [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) |                                                              |      |
-| [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof) |                                                              |      |
-| [189. 轮转数组](https://leetcode-cn.com/problems/rotate-array) |                                                              |      |
-| 存在重复元素                                                 | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L31-L47)  [最优题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/5784019fb8baa670999eb497103218622acc78a2/Algo-Swift/01Array-%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.swift#L54-L64) |      |
-| 两数之和                                                     | [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-| 三数之和                                                     | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-
-
-
-
-
-## 动态规划 - 最大面积 最小路径 最大子数组和 最长子串
-
-| 名称 | 题解地址 | 次数 |
-| :--- | :------- | :--- |
-| 爬楼梯 | [爬楼梯](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP1%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) |    5 次   |
-| 53. 最大子序和 | [连续最大子数组](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP2-%E8%BF%9E%E7%BB%AD%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.md) |  19 次    |
-| 最小路径和     |  [最小路径和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP3-%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)  |      |
-| 无重复字符的最长子串 | [无重复字符的最长子串](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |   25 次   |
-|  最大子数组和    |  [最大子数组和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md)        |      |
-|  接雨水    | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)          |   8 次   |
-|      |          |      |
-
-## 哈希表解法
-
-| 名称                                                         | 文档地址                                                     | 简介 |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
-| 两数之和                                                     | [两数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-| [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | [LRU缓存机制解题思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) |      |
-|                                                              |                                                              |      |
-
-
-
-## 双指针解法
+## 09 双指针解法
 
 | 名称                                                         | 文档地址                                                     | 简介                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -154,9 +173,33 @@
 
 
 
----
-## 字节高频60 题目  
+## 10 贪心算法
 
+| 名称                                                         | 文档地址                                                     | 简介                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 三数之和                                                     | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |                                                              |
+| 接雨水                                                       | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) |                                                              |
+| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) |                                                              | [重排链表思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) |
+|                                                              |                                                              |                                                              |
+
+
+
+## 11 模拟
+
+| 名称                                                         | 文档地址                                                     | 简介                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 三数之和                                                     | [三数之和](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |                                                              |
+| 接雨水                                                       | [接雨水](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) |                                                              |
+| [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) |                                                              | [重排链表思路](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md) |
+|                                                              |                                                              |                                                              |
+
+
+
+
+
+[牛客网Top01](https://www.nowcoder.com/exam/oj?page=1&tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295)
+
+---
 [字节 Top60](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E8%8A%82%20Top50.md)
 
 ##### 二叉树树 14 
