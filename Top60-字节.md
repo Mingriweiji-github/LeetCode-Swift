@@ -23,12 +23,12 @@
 | 9    | [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | 中等     | 2022-03-07 | 15   |      | [15 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |
 | 10   | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | 容易     | 2022-01-07 | 15   |      | [121 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) |
 | 11   | [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | 容易     | 2021-12-30 | 15   |      | [1 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |
-| 12   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | 中等     | 2022-03-02 | 14   |      | 未做笔记更多(25)                                             |
+| 12   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | 中等     | 2022-03-02 | 14   |      | [54题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) |
 | 13   | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | 中等     | 2022-01-18 | 14   |      | [102题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md) |
 | 14   | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | 中等     | 2022-02-21 | 13   |      | [236题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) |
 | 15   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | 容易     | 2022-01-12 | 13   |      | [21题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) |
 | 16   | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | 中等     | 2021-08-11 | 12   |      | 未做笔记更多(14)                                             |
-| 17   | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | 中等     | 2021-08-11 | 12   |      | 未做笔记更多(14)                                             |
+| 17   | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | 中等     | 2021-08-11 | 12   |      | [415 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md) |
 | 18   | [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等     | 2021-08-11 | 12   |      | [199题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md) |
 | 19   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | 容易     | 2022-03-12 | 12   |      | 未做笔记更多(6)                                              |
 | 20   | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | 困难     | 2022-03-23 | 10   |      |                                                              |
@@ -38,7 +38,7 @@
 | 24   | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | 容易     |            | 9    |      |                                                              |
 | 25   | [958. 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) | 中容易   |            | 9    |      | [958 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%AE%8C%E5%85%A8%E6%80%A7%E6%A3%80%E9%AA%8C.md) |
 | 26   | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | 中等容易 |            | 8    |      | [142 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md) |
-| 27   | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | 中等容易 |            | 8    |      |                                                              |
+| 27   | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | 中等容易 |            | 8    |      | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.md) |
 | 28   | [112. 路径总和](https://leetcode-cn.com/problems/path-sum)   | 容易     |            | 8    |      |                                                              |
 | 29   | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | 容易     |            | 8    |      | [141题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md) |
 | 30   | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | 中等容易 |            | 8    |      |                                                              |
@@ -51,7 +51,7 @@
 | 37   | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) | 容易     |            | 7    |      |                                                              |
 | 38   | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | 容易     |            | 7    |      |                                                              |
 | 39   | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | 容容易   |            | 7    |      |                                                              |
-| 40   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | 容易容易 |            | 7    |      |                                                              |
+| 40   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | 容易容易 |            | 7    |      | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md) |
 | 41   | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) | 容易     |            | 7    |      |                                                              |
 | 42   | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | 容易容易 |            | 6    |      |                                                              |
 | 43   | [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | 容易     |            | 6    |      |                                                              |
@@ -60,7 +60,7 @@
 | 46   | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | 容易     |            | 6    |      |                                                              |
 | 47   | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | 容易     |            | 6    |      |                                                              |
 | 48   | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | 容易容易 |            | 6    |      |                                                              |
-| 49   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | 容容易   |            | 5    |      |                                                              |
+| 49   | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | 容容易   |            | 5    |      | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) |
 | 50   | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 容易     |            | 5    |      |                                                              |
 | 51   | [143. 重排链表](https://leetcode-cn.com/problems/reorder-list) | 容易     |            | 5    |      |                                                              |
 | 52   | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | 中容易   |            | 5    |      |                                                              |
