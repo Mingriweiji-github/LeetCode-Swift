@@ -103,6 +103,8 @@
 
 ## 06 二叉树
 
+![](https://pic.leetcode-cn.com/1625557068-rTzCSW-image.png)
+
 | 名称                                                         | 文档地址                                                     | 出现次数 |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------- |
 | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) WS11 | [二叉树的锯齿形层次遍历](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E7%BA%A7%E9%81%8D%E5%8E%86.md) | 17次     |
