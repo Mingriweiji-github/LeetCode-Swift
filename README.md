@@ -93,10 +93,10 @@
 
 | 名称 | 文档地址 | 简介 |
 | :------------------------------------- | :------|:--- |
-| [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) |          |      |
-| [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) |          |      |
+| [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/Stack-%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) |      |
+| [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/Queue-%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) |      |
 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) |          |      |
-|      |          |      | |                                             
+|      |          |      |
 
 
 ## 06 二叉树
