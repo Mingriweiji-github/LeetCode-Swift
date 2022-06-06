@@ -17,18 +17,13 @@
 | 名称                                                         | 文档地址                                                     | 次数 |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | [15 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-| [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) |                                                              |      |
-| [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |                                                              |      |
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | [1 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) |                                                              |      |
 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) |                                                              |      |
 | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) |                                                              |      |
-| [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation) |                                                              |      |
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) |                                                              |      |
 | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) |                                                              |      |
 | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) |                                                              |      |
-| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |                                                              |      |
-| [105. 从前序与中序遍历序列构](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |                                                              |      |
-| [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) |                                                              |      |
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |       |      |    
 
 ## 02 链表
 
@@ -90,6 +85,12 @@
 
 ## 05 栈 队列
 
+`栈：一种后进先出的数据结构，元素从顶端入栈，然后从顶端出栈`
+
+`队列：一种先进先出的数据结构，元素从后端入栈，然后从前端出队列`
+
+
+
 | 名称 | 文档地址 | 简介 |
 | :------------------------------------- | :------|:--- |
 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) |          |      |
@@ -129,24 +130,7 @@
 
 
 
-## 08 字符串
-
-| 名称                                                         | 文档地址 | 简介 |
-| :----------------------------------------------------------- | :------- | :--- |
-| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) |          |      |
-| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) |          |      |
-| [415. 字符串相加](https://leetcode-cn.com/problems/add-strings) |          |      |
-| [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) |          |      |
-| [394. 字符串解码](https://leetcode-cn.com/problems/decode-string) |          |      |
-| [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string) |          |      |
-| [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-
-
-
-## 排序
+## 08 排序
 
 | 名称                                                         | 文档地址 | 简介 |
 | :----------------------------------------------------------- | :------- | :--- |
@@ -161,6 +145,12 @@
 | [补充题5. 手撕归并排序](https://leetcode-cn.com/problems/sort-an-array) |          |      |
 | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) |          |      |
 | [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) |          |      |
+
+
+
+---
+
+
 
 ##  二分法
 
