@@ -1,4 +1,4 @@
-# Swift Club
+# [Swift Club
 
 [牛客网Top101](https://www.nowcoder.com/exam/oj?page=1&tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295)
 
@@ -18,12 +18,12 @@
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum)        | [15 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum)      | [1 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |      |
-| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) |                                                              |      |
-| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) |                                                              |      |
-| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) |                                                              |      |
-| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) |                                                              |      |
+| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | [53 题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP5-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md) |      |
+| [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [54题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) |      |
+| [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | [42题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md) |      |
+| [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [88题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/Array-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) |      |
 | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) |                                                              |      |
-| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |       |      |    
+| [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) |                                                              |      |
 
 ## 02 链表
 
@@ -42,10 +42,7 @@
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [环形链表II](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md) | 41 次  |
 | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) WS7 | [环形链表](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 51 次  |
 | [148. 排序链表](https://leetcode-cn.com/problems/sort-list)  WS5 |                                                              |        |
-| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) WS4 |                                                              |        |
 | [143. 重排链表 ](https://leetcode-cn.com/problems/reorder-list) WS3 |                                                              |        |
-| [面试题 02.05. 链表求和](https://leetcode-cn.com/problems/sum-lists-lcci) WS3 |                                                              |        |
-| [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof) WS3 | 容易                                                         |        |
 | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) WS2 |                                                              |        |
 |                                                              |                                                              |        |
 
