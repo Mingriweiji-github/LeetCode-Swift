@@ -78,14 +78,13 @@
 | 名称                                                         | 文档地址                                                     | 简介 |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :--- |
 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP4-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) |      |
-| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) |                                                              |      |
+|[647\. 回文子串 \- 力扣（LeetCode）](https://leetcode.cn/problems/palindromic-substrings/)  | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP-%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) | |
+| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/DP-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) |      |
 | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md) |      |
 | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2-%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.md) |      |
 | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string) |                                                              |      |
 | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string) | [题解]()                                                     |      |
-| [541.反转字符串II](https://leetcode.cn/link/?target=https%3A%2F%2Fprogrammercarl.com%2F0541.反转字符串II.html) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.md) |      |
-| [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) |                                                              |      |
-|                                                              |                                                              |      |
+| [541.反转字符串II](https://leetcode.cn/link/?target=https%3A%2F%2Fprogrammercarl.com%2F0541.反转字符串II.html) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.md) |      ||                                                              |                                                              |      | 
 |                                                              |                                                              |      |
 
 
