@@ -88,25 +88,17 @@
 | [541.反转字符串II](https://leetcode.cn/link/?target=https%3A%2F%2Fprogrammercarl.com%2F0541.反转字符串II.html) | [题解](https://github.com/Mingriweiji-github/LeetCode-Swift/blob/master/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.md) |      |
 |                                                              |                                                              |      |
 
-
-
 ## 05 栈 队列
 
-| 名称                                                         | 文档地址 | 简介 |
-| :----------------------------------------------------------- | :------- | :--- |
+| 名称 | 文档地址 | 简介 |
+| :------------------------------------- | :------|:--- |
 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) |          |      |
 | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) |          |      |
 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
-|                                                              |          |      |
+|      |          |      | |                                             
+
 
 ## 06 二叉树
-
-![](https://pic.leetcode-cn.com/1625557068-rTzCSW-image.png)
 
 | 名称                                                         | 文档地址                                                     | 出现次数 |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :------- |
