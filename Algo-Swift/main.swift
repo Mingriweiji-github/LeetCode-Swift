@@ -16,3 +16,6 @@ import Foundation
 //let temperatures = [30,60,90]
 //let days = StackSolution().dailyTemperatures(temperatures)
 //print(days)
+
+let arr = [5,2,3,1]
+print(quickSort(arr))
